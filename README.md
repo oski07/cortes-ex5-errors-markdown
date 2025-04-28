@@ -32,7 +32,7 @@
 - 512MB RAM
 - Targeta gràfica de 64MB
 
-##Notes addicionals
+## Notes addicionals
 **Actualitzacions* trimestrals
 Compatibilitat amb VR (proximament)
 

@@ -3,7 +3,7 @@
 ## **Benvigut a la plataforma definitiva de **Videojocs* retro.**
 
 ## Plataformes suportades
--PC
+- PC
 -Consola
 -Mobile
 

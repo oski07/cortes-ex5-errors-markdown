@@ -36,7 +36,7 @@
 **Actualitzacions trimestrals**
 Compatibilitat amb VR (proximament)
 
-##Contacte
+## Contacte
 Segueix-nos a Instagram Facebook Twitter!
 
 ##Crèdits:
